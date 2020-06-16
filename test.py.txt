@@ -1,0 +1,15 @@
+#!/bin/python
+import sys
+import os
+import argparse
+import re
+from time import time
+import boto
+from boto import ec2
+from boto import rds
+from boto import elasticache
+from boto import route53
+from boto import sts
+import six
+
+print "Hello"
