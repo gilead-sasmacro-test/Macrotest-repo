@@ -1,4 +1,3 @@
-# adding Macro4
 # updated Macro4 
 
 #Made changes for testing purposes.
@@ -8,4 +7,3 @@
 ## Data adding through the console
 
 # This is macro4 sas file
-
