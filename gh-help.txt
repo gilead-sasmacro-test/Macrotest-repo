@@ -1,0 +1,12 @@
+gh
+kthummapudi@gvdi1809d-1626 MINGW64 ~/demo-github-action (develop)
+$ gh pr create --title "Pull request title" --body "Pull request body"
+
+Creating pull request for develop into master in gilead-sasmacro-test/demo-github-action
+
+https://github.com/gilead-sasmacro-test/demo-github-action/pull/3
+
+
+A new release of gh is available: 0.9.0-pre ? v0.9.0
+https://github.com/cli/cli/releases/tag/v0.9.0
+
